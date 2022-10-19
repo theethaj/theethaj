@@ -1,2 +1,2 @@
 ### Hi there 👋
-### My name is Tetach. I am currently a Software Engineering student at Kasetsart University, Thailand.
+#### My name is Bank. I graduated from the Faculty of Computer Engineering, Kasetsart University.
